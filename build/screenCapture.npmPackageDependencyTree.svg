@@ -1,0 +1,57 @@
+<svg height="862" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="862" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">15 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├─┬ chairo@3.0.0 </tspan>
+<tspan x="10" y="90">│ ├── boom@4.3.1 </tspan>
+<tspan x="10" y="106">│ ├── hoek@4.1.1 </tspan>
+<tspan x="10" y="122">│ ├── items@2.1.1 </tspan>
+<tspan x="10" y="138">│ ├─┬ joi@10.4.1 </tspan>
+<tspan x="10" y="154">│ │ ├── isemail@2.2.1 </tspan>
+<tspan x="10" y="170">│ │ └── topo@2.0.2 </tspan>
+<tspan x="10" y="186">│ ├── jsonic@0.2.2 </tspan>
+<tspan x="10" y="202">│ └─┬ seneca@3.3.0 </tspan>
+<tspan x="10" y="218">│   ├── archy@1.0.0 </tspan>
+<tspan x="10" y="234">│   ├─┬ eraro@0.4.1 </tspan>
+<tspan x="10" y="250">│   │ └── lodash@2.4.2 </tspan>
+<tspan x="10" y="266">│   ├── gate-executor@1.1.1 </tspan>
+<tspan x="10" y="282">│   ├─┬ gex@0.2.2 </tspan>
+<tspan x="10" y="298">│   │ └── lodash@3.10.0 </tspan>
+<tspan x="10" y="314">│   ├── json-stringify-safe@5.0.1 </tspan>
+<tspan x="10" y="330">│   ├── lodash@4.15.0 </tspan>
+<tspan x="10" y="346">│   ├─┬ lru-cache@4.0.1 </tspan>
+<tspan x="10" y="362">│   │ ├── pseudomap@1.0.2 </tspan>
+<tspan x="10" y="378">│   │ └── yallist@2.1.2 </tspan>
+<tspan x="10" y="394">│   ├── minimist@1.2.0 </tspan>
+<tspan x="10" y="410">│   ├── nid@0.3.2 </tspan>
+<tspan x="10" y="426">│   ├─┬ norma@0.3.0 </tspan>
+<tspan x="10" y="442">│   │ └── lodash@2.4.2 </tspan>
+<tspan x="10" y="458">│   ├── ordu@0.1.1 </tspan>
+<tspan x="10" y="474">│   ├── patrun@0.5.1 </tspan>
+<tspan x="10" y="490">│   ├── rolling-stats@0.1.1 </tspan>
+<tspan x="10" y="506">│   ├── semver@5.3.0 </tspan>
+<tspan x="10" y="522">│   ├── seneca-log-filter@0.1.0 </tspan>
+<tspan x="10" y="538">│   ├─┬ seneca-transport@2.1.0 </tspan>
+<tspan x="10" y="554">│   │ ├─┬ ndjson@1.4.3 </tspan>
+<tspan x="10" y="570">│   │ │ ├── split2@0.2.1 </tspan>
+<tspan x="10" y="586">│   │ │ └─┬ through2@0.6.5 </tspan>
+<tspan x="10" y="602">│   │ │   ├─┬ readable-stream@1.0.34 </tspan>
+<tspan x="10" y="618">│   │ │   │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="634">│   │ │   │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="650">│   │ │   │ ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="666">│   │ │   │ └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="682">│   │ │   └── xtend@4.0.1 </tspan>
+<tspan x="10" y="698">│   │ ├─┬ patrun@0.5.0 </tspan>
+<tspan x="10" y="714">│   │ │ └── lodash@3.10.0 </tspan>
+<tspan x="10" y="730">│   │ ├── qs@6.2.1 </tspan>
+<tspan x="10" y="746">│   │ ├─┬ reconnect-core@1.3.0 </tspan>
+<tspan x="10" y="762">│   │ │ └─┬ backoff@2.5.0 </tspan>
+<tspan x="10" y="778">│   │ │   └── precond@0.2.3 </tspan>
+<tspan x="10" y="794">│   │ └─┬ wreck@9.0.0 </tspan>
+<tspan x="10" y="810">│   │   └── boom@3.2.2 </tspan>
+<tspan x="10" y="826">│   └── use-plugin@0.3.2 </tspan>
+<tspan x="10" y="842">└── UNMET PEER DEPENDENCY hapi@&gt;=11.x.x</tspan>
+</text>
+</svg>
